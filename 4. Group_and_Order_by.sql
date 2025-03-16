@@ -28,7 +28,7 @@ Group by gender
 # The above `MAX`, `MIN`, and `COUNT` are more examples of aggregate functions 
 # being used for grouped columns
 
--- ORDER BY
+-- ORDER BY (ASC is default)
 # This will either sort the results down the specified column in ascending or descending order
 
 SELECT * 
